@@ -2,5 +2,6 @@
   "_base":"https://raw.githubusercontent.com/ShawnToubeau/samples/master/",
   "dx_vox": ["dx_vox/4.wav", "dx_vox/1.wav", "dx_vox/3.wav", "dx_vox/2.wav"],
   "champ": ["champ/1.wav"],
-  "breaks": ["breaks/1.wav"]
+  "breaks": ["breaks/1.wav"],
+  "kicks": ["kicks/808 kick.wav", "kicks/erosion kick 1.wav", "kicks/erosion kick 2.wav", "kicks/nonsnare 1.wav", "kicks/nonsnare 2.wav", "kicks/rimshot snare 1.wav", "kicks/rimshot snare 2.wav", "kicks/rimshot snare 3.wav", "kicks/warehouse snare.wav"]
 }
