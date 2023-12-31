@@ -4,5 +4,7 @@
   "champ": ["champ/1.wav"],
   "breaks": ["breaks/1.wav"],
   "kicks": ["kicks/808 kick.wav", "kicks/erosion kick 1.wav", "kicks/erosion kick 2.wav", "kicks/nonsnare 1.wav", "kicks/nonsnare 2.wav", "kicks/rimshot snare 1.wav", "kicks/rimshot snare 2.wav", "kicks/rimshot snare 3.wav", "kicks/warehouse snare.wav"],
-  "perc": ["perc/drum fill 1_140bpm.wav","perc/drum fill 2_140bpm.wav","perc/perc loop 1_160bpm.wav","perc/perc loop 2_160bpm.wav","perc/perc loop 3_154bpm.wav","perc/perc loop 4_180bpm(3:4).wav","perc/perc loop 5_130bpm.wav","perc/perc loop 6_170bpm.wav","perc/perc loop 7_140bpm.wav"]
+  "perc": ["perc/drum fill 1_140bpm.wav","perc/drum fill 2_140bpm.wav","perc/perc loop 1_160bpm.wav","perc/perc loop 2_160bpm.wav","perc/perc loop 3_154bpm.wav","perc/perc loop 4_180bpm(3:4).wav","perc/perc loop 5_130bpm.wav","perc/perc loop 6_170bpm.wav","perc/perc loop 7_140bpm.wav"],
+  "mine": ["mine/pickaxe-1.wav", "mine/pickaxe-2.wav", "mine/shovel.wav"],
+  "goblin": ["goblin/goblin-1.wav", "goblin/goblin-2.wav", "goblin/goblin-3.wav", "goblin/goblin-4.wav"]
 }
