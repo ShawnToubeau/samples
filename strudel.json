@@ -31,7 +31,8 @@
     "perc/perc_01.wav"
   ],
   "seq": [
-    "seq/seq_01.wav"
+    "seq/seq_01.wav",
+    "seq/seq_02.wav"
   ],
   "synth": [
     "synth/synth_01.wav",
