@@ -6,6 +6,9 @@
     "bass/bass_02.wav"
   ],
   "breaks": ["breaks/1.wav"],
+  "fx": [
+    "fx/wind_down.wav"
+  ],
   "kicks": [
     "kicks/808 kick.wav",
     "kicks/erosion kick 1.wav",
@@ -16,7 +19,11 @@
     "kicks/rimshot snare 2.wav",
     "kicks/rimshot snare 3.wav",
     "kicks/warehouse snare.wav",
-    "kicks/hard_style_01.wav"
+    "kicks/hard_style_01.wav",
+    "kicks/open_hat.wav",
+    "kicks/snare_01.wav",
+    "kicks/symbol_01.wav",
+    "kicks/dub_01.wav"
   ],
   "perc": [
     "perc/drum fill 1_140bpm.wav",
