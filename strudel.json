@@ -1,55 +1,80 @@
 {
   "_base": "https://raw.githubusercontent.com/ShawnToubeau/samples/master/",
-  "champ": ["champ/1.wav"],
-  "bass": [
-    "bass/bass_01.wav",
-    "bass/bass_02.wav"
+  "goblinfx": [
+    "goblinfx/goblin-1.wav",
+    "goblinfx/goblin-2.wav",
+    "goblinfx/goblin-3.wav",
+    "goblinfx/goblin-4.wav"
   ],
-  "breaks": ["breaks/1.wav"],
-  "fx": [
-    "fx/wind_down.wav"
+  "mine": [
+    "mine/pickaxe-1.wav",
+    "mine/pickaxe-2.wav",
+    "mine/shovel.wav"
   ],
-  "kicks": [
-    "kicks/808 kick.wav",
-    "kicks/erosion kick 1.wav",
-    "kicks/erosion kick 2.wav",
-    "kicks/nonsnare 1.wav",
-    "kicks/nonsnare 2.wav",
-    "kicks/rimshot snare 1.wav",
-    "kicks/rimshot snare 2.wav",
-    "kicks/rimshot snare 3.wav",
-    "kicks/warehouse snare.wav",
-    "kicks/hard_style_01.wav",
-    "kicks/open_hat.wav",
-    "kicks/snare_01.wav",
-    "kicks/symbol_01.wav",
-    "kicks/dub_01.wav"
+  "sbass": [
+    "sbass/bass_01.wav",
+    "sbass/bass_02.wav",
+    "sbass/darude 1.wav",
+    "sbass/darude 2.wav"
   ],
-  "perc": [
-    "perc/drum fill 1_140bpm.wav",
-    "perc/drum fill 2_140bpm.wav",
-    "perc/perc loop 1_160bpm.wav",
-    "perc/perc loop 2_160bpm.wav",
-    "perc/perc loop 3_154bpm.wav",
-    "perc/perc loop 4_180bpm(3:4).wav",
-    "perc/perc loop 5_130bpm.wav",
-    "perc/perc loop 6_170bpm.wav",
-    "perc/perc loop 7_140bpm.wav",
-    "perc/perc_01.wav"
+  "sbd": [
+    "sbd/808 kick.wav",
+    "sbd/erosion kick 1.wav",
+    "sbd/erosion kick 2.wav",
+    "sbd/hard_style_01.wav",
+    "sbd/muted 1.wav",
+    "sbd/muted 2.wav",
+    "sbd/VEC1 Bass 256 G.wav"
   ],
-  "seq": [
-    "seq/seq_01.wav",
-    "seq/seq_02.wav"
+  "sbreak": [
+    "sbreak/amen.wav"
   ],
-  "synth": [
-    "synth/synth_01.wav",
-    "synth/bright_synth_01.wav"
+  "scym": [
+    "scym/cymbol.wav"
   ],
-  "mine": ["mine/pickaxe-1.wav", "mine/pickaxe-2.wav", "mine/shovel.wav"],
-  "goblin": [
-    "goblin/goblin-1.wav",
-    "goblin/goblin-2.wav",
-    "goblin/goblin-3.wav",
-    "goblin/goblin-4.wav"
+  "sdl": [
+    "sdl/drum fill 1_140bpm.wav",
+    "sdl/drum fill 2_140bpm.wav",
+    "sdl/perc loop 1_160bpm.wav",
+    "sdl/perc loop 2_160bpm.wav",
+    "sdl/perc loop 3_154bpm.wav",
+    "sdl/perc loop 4_180bpm(3:4).wav",
+    "sdl/perc loop 5_130bpm.wav",
+    "sdl/perc loop 6_170bpm.wav",
+    "sdl/perc loop 7_140bpm.wav",
+    "sdl/perc_01.wav"
+  ],
+  "sfx": [
+    "sfx/champ.wav",
+    "sfx/crack pop.wav",
+    "sfx/rain pop.wav",
+    "sfx/VEC1 Sounds 13 Sol-7 G#.wav",
+    "sfx/VEC1 Sounds 15 Ampire G#.wav",
+    "sfx/VEC1 Sounds 16 Ampire A.wav",
+    "sfx/VVE1 FX Vocal 01.wav",
+    "sfx/VVE1 FX Vocal 03.wav"
+  ],
+  "smel": [
+    "smel/euro synth.wav",
+    "smel/fairy synth.wav",
+    "smel/VEC1 Sounds 02 TuneUp G.wav",
+    "smel/VEC1 Sounds 14 Phalanx B.wav"
+  ],
+  "soh": [
+    "soh/open_hat.wav"
+  ],
+  "sperc": [
+    "sperc/VEC1 Sounds 068 D#.wav"
+  ],
+  "ssd": [
+    "ssd/rimshot snare 1.wav",
+    "ssd/rimshot snare 2.wav",
+    "ssd/rimshot snare 3.wav",
+    "ssd/warehouse snare.wav"
+  ],
+  "sstab": [
+    "sstab/VEC1 Sounds 034 H.wav",
+    "sstab/VEC1 Sounds 069 D#.wav",
+    "sstab/VEC1 Sounds 118 G#.wav"
   ]
 }
